@@ -25,70 +25,70 @@
     "prosConsSubtitle": "Nothing!!!!"
   },
   "media": {
-    "mainBearGif": "/src/assets/cute-bear.gif",
-    "musicBearGif": "/src/assets/music-bear.gif",
-    "comfortBearGif": "/src/assets/comfort-bear.gif",
-    "kissBearGif": "/src/assets/kiss-bears.gif",
-    "photoBearGif": "/src/assets/photo-bear.gif",
-    "loveYouBearGif": "/src/assets/love-you-bear.gif",
-    "childGif": "/src/assets/child.gif",
-    "roseBearGif": "/src/assets/rose-bear.gif",
-    "cookBearGif": "/src/assets/cook-bear.gif",
-    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
-    "leftButton": "/src/assets/left-button.png",
-    "rightButton": "/src/assets/right-button.png",
+    "mainBearGif": "/cute-bear.gif",
+    "musicBearGif": "/music-bear.gif",
+    "comfortBearGif": "/comfort-bear.gif",
+    "kissBearGif": "/kiss-bears.gif",
+    "photoBearGif": "/photo-bear.gif",
+    "loveYouBearGif": "/love-you-bear.gif",
+    "childGif": "/child.gif",
+    "roseBearGif": "/rose-bear.gif",
+    "cookBearGif": "/cook-bear.gif",
+    "kissSingleBearGif": "/kiss-bear.gif",
+    "leftButton": "/left-button.png",
+    "rightButton": "/right-button.png",
     "envelopeSeal": "❤️"
   },
   "gifts": {
-    "gift1": "/src/assets/gift/gift1.jpg",
-    "gift2": "/src/assets/gift/gift2.jpg", 
-    "gift3": "/src/assets/gift/gift3.jpg"
+    "gift1": "/gift/gift1.jpg",
+    "gift2": "/gift/gift2.jpg", 
+    "gift3": "/gift/gift3.jpg"
   },
   "couplePhotos": [
     {
-      "image": "/src/assets/couple_photo/Night.jpg",
+      "image": "/couple_photo/Night.jpg",
       "caption": "Endless Nights"
     },
     {
-      "image": "/src/assets/couple_photo/Shop.jpg", 
+      "image": "/couple_photo/Shop.jpg", 
       "caption": "Shopping polama"
     },
     {
-      "image": "/src/assets/couple_photo/Marriage.jpg",
+      "image": "/couple_photo/Marriage.jpg",
       "caption": "Kalyana naal ku enna pannalam..?"
     },
     {
-      "image": "/src/assets/couple_photo/Erode.jpg",
+      "image": "/couple_photo/Erode.jpg",
       "caption": "Erode polamaa"
     },
     {
-      "image": "/src/assets/couple_photo/Trichy.jpg",
+      "image": "/couple_photo/Trichy.jpg",
       "caption": "Trichy polama"
     },
      {
-      "image": "/src/assets/couple_photo/Gobi.jpg",
+      "image": "/couple_photo/Gobi.jpg",
       "caption": "Gobi polamaa?"
     }
     ],
   "prosCons": [
     {
-      "gif": "/src/assets/cook-bear.gif",
+      "gif": "/cook-bear.gif",
       "text": "I'll cook your food...ennaa ketalum samaipan🍳"
     },
     {
-      "gif": "/src/assets/comfort-bear.gif", 
+      "gif": "/comfort-bear.gif", 
       "text": "Infinite comfort and care"
     },
     {
-      "gif": "/src/assets/cute-bear.gif",
+      "gif": "/cute-bear.gif",
       "text": "Enna sonnalum kepan"
     },
     {
-      "gif": "/src/assets/kiss-bears.gif",
+      "gif": "/kiss-bears.gif",
       "text": "Hugs..kiss....sex...enna Venum sollu)"
     },
     {
-      "gif": "/src/assets/music-bear.gif",
+      "gif": "/music-bear.gif",
       "text": "Enna ketalum paadi kaatuvann"
     }
   ],
@@ -99,8 +99,8 @@
       "duration": "5:11",
       "album": "ENPT",
       "artist": "",
-      "cover": "/src/assets/album-covers/Vi.jpg",
-      "audio": "/src/assets/songs/Vi.mp3"
+      "cover": "/album-covers/Vi.jpg",
+      "audio": "/songs/Vi.mp3"
     },
     {
       "id": 2,
@@ -108,8 +108,8 @@
       "duration": "4:48", 
       "album": "Kalainga",
       "artist": "",
-      "cover": "/src/assets/album-covers/EN.jpg",
-      "audio": "/src/assets/songs/EN.mp3"
+      "cover": "/album-covers/EN.jpg",
+      "audio": "/songs/EN.mp3"
     },
     {
       "id": 3,
@@ -117,8 +117,8 @@
       "duration": "01:53",
       "album": "Minnalae",
       "artist": "",
-      "cover": "/src/assets/album-covers/ON.jpg",
-      "audio": "/src/assets/songs/ON.mp3"
+      "cover": "/album-covers/ON.jpg",
+      "audio": "/songs/ON.mp3"
     },
     {
       "id": 4,
@@ -126,8 +126,8 @@
       "duration": "6:18",
       "album": "Sillunu Oru Kadhal",
       "artist": "",
-      "cover": "/src/assets/album-covers/SK.jpg",
-      "audio": "/src/assets/songs/SK.mp3"
+      "cover": "/album-covers/SK.jpg",
+      "audio": "/songs/SK.mp3"
     },
     {
       "id": 5,
@@ -135,12 +135,12 @@
       "duration": "5:06",
       "album": "KDKR",
       "artist": "",
-      "cover": "/src/assets/album-covers/KB.jpg",
-      "audio": "/src/assets/songs/KB.mp3"
+      "cover": "/album-covers/KB.jpg",
+      "audio": "/songs/KB.mp3"
     }
   ],
   "letter": {
-    "title": "My Dearest Patootie,",
+    "title": "My Thanga pulllaaa,",
     "content": [
       " Alagii...Thiss is our first valentine's day...indha time iruka mudilaa....innime vara ella valentine um valka full ah un kooda dhann....eedhum kavala padathaa...Naa irukann\n\nEn thangoo....vairooo..chloooo....ammuuu...en thangaa pulla,en pattuu.....en kunjuu...en kutti paapa.....ellamaeee enaku nee dhan daaa\n\nEnaku unna ippovaee paakanumm,un kooda time spend pannanum...cbe suthanumm....un kastam ellaaam pookanum....unna kalangama paathukanum....kastamae illama vachukanum...ellamae ippovae pannanum....seekaram ellam nadakum daa"
     ],
